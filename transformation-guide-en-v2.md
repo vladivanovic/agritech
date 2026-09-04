@@ -187,6 +187,77 @@ This guide compiles the legal, financial, and practical requirements for a forei
 
 ---
 
+
+
+### 6.2 Peach (Prunus persica)
+
+**Climate Suitability**: ★★★☆☆ Moderate
+
+#### Recommended Varieties
+
+| Variety | Characteristics | Harvest Season |
+|---------|----------------|----------------|
+| Red Jade | Flesh soft, high sugar | July |
+| Rising Sun | High sweetness, June | June |
+| Summer Glow | Harvest period, July-August | July-August |
+
+#### Cultivation Needs
+
+- Spring frost protection (Feb-Mar)
+- Winter dormancy period
+- Summer high temperatures (25-35°C)
+
+#### Grafting
+
+**Whip Grafting**
+- Season: Feb-Mar
+- Success rate: 60-75%
+
+#### Harvest and Storage
+
+Peaches have short storage life; immediate sale recommended.
+
+- Harvest immediately (within 3-7 days)
+- Temperature: 0-5°C for 1-2 weeks
+
+
+
+### 6.3 Pear (Pyrus pyrifolia - Japanese Pear)
+
+**Climate Suitability**: ★★★★☆ High
+
+#### Recommended Varieties
+
+| Variety | Characteristics | Harvest Season |
+|---------|----------------|----------------|
+| Hosui | Explosive sweetness, large | October |
+| Nashi | Hard flesh, Aug-Sep | Aug-Sep |
+| Shinseki | Strong acidity, Sep-Oct | Sep-Oct |
+
+#### Cultivation Technique
+
+**Grafting**
+
+**Cleft Grafting**
+- Season: Feb-Mar (Winter to Early Spring)
+- Success rate: 75-85%
+
+#### Procedure
+
+1. Cut rootstock in V-shape
+2. Insert scion halfway into incision
+3. Fix with ring tape
+4. Seal with 45-degree angle
+
+#### Harvest and Storage
+
+**Storage Method**
+
+- Temperature: 3-7°C
+- Humidity: 90-95%
+- Storage period: 3-6 months
+- Sugar fermentation (sugar increases during storage)
+
 ## 3-2 Greenhouse Cultivation Details
 
 ### Greenhouse Types
@@ -597,3 +668,110 @@ Both methods are suitable for Munakata's climate, but differ as follows:
 | Genetic Uniformity | Influenced by rootstock | Pure own-root tree |
 | Required Equipment | Medium (knife, tape, etc.) | Low (pot, soil, hormone) |
 | Cost per Seedling | ¥1,500-3,000 | ¥500-1,500 |
+
+## Appendix B - Agricultural License & Application Documents Complete Guide
+
+### Main Documents Required for Agricultural Committee Permission Application
+
+| Document Name | Content | Notes |
+|--------------|---------|-------|
+| Article 3 of Agricultural Land Law Permission Application | Permission application required for acquisition (purchase/lease) of agricultural land | Submitted to Agricultural Committee |
+| Agricultural Management Plan (Managing Farming Plan) | What to grow, where to sell, income/expense plan | Most important document |
+| Register of Land Affairs Certificate | Land rights certificate obtained from Legal Affairs Bureau | Within 3 months of application |
+| Copy of Map (Kojizu) | Map showing land location | Obtained from appropriate Legal Affairs Bureau |
+| Resident Record | Applicant's address confirmation | Same household as applicant |
+| Resident Record (Removed) | Previous address if applicable | In case of separate residence |
+| Copy of Final Income Tax Return | Proof of income status | Last 1 year |
+| Employment Insurance Insured Person Certificate | When employing workers | |
+| Cultivation Plan Diagram | Plan diagram showing what crops where | Free format |
+| Management Fundraising Plan | Fundraising plan | When submitting to financial institution |
+
+### Agricultural Committee Permission Application Flow
+
+**Step 1: Land Search & Owner Discussion (Land Search & Owner Discussion)**
+- Land discovery (National Agricultural Land Navi, JA, real estate agents, etc.)
+- Price/condition negotiation with owner
+- Contract creation (including written memorandum)
+
+**Step 2: Pre-consultation with Municipal Agricultural Committee (Pre-consultation with Municipal Agricultural Committee)**
+- Appointment at Agricultural Committee counter
+- Permission requirements confirmation (business scale, crops, funds, etc.)
+- Advice received after initial consultation
+
+**Step 3: Document Preparation & Application Submission (Document Preparation & Application Submission)**
+- Gathering necessary documents (listed above)
+- Filling out Article 3 of Agricultural Land Law Permission Application
+- Creating Managing Farming Plan (realistic numbers, appealing cultivation techniques)
+- Checking application deadline (set every month)
+- Submission at counter
+
+**Step 4: Document Review & On-site Inspection (Document Review & On-site Inspection)**
+- Agricultural Committee document check
+- On-site inspection of applied land (soil conditions, surrounding environment, etc.)
+- Request for additional document submission if necessary
+
+**Step 5: Agricultural Committee Meeting Decision (Agricultural Committee Meeting Decision)**
+- Permission or rejection decision
+- Issuance of Permission Order (or Rejection Notice)
+
+**Required Period**: Approximately 4 weeks from application submission to permission certificate issuance (standard processing period)
+
+### Permission Judgment Criteria
+
+| Judgment Item | Requirement | Details |
+|--------------|-------------|---------|
+| All-Efficient-Use Requirement | Utilize all agricultural land efficiently and engage in farming business | Appropriate farming plan utilizing machinery, labor, technology, etc. |
+| Permanent Engagement in Farming Business | Permanent engagement in farming (principally 150+ days per year) | Manager's actual work status |
+| Business Scale | 50 ares or more in prefectures (2 hectares or more in Hokkaido) | Exceptions for intensive greenhouse farming, etc. |
+| No Hindrance to Surrounding Agricultural Use | Usage method that does not hinder surrounding agricultural use | Environmental impact, coordination with neighbors |
+| Nationality/Residency Status | Satisfy Agricultural Land Law conditions | Permanent residents (Eijūsha) or special permanent residents |
+
+### Other Licenses & Qualifications Necessary for New Farmers
+
+| License/Qualification | Issuing Organization | Validity | Main Content |
+|----------------------|--------------------|----------|--------------|
+| Basic Agricultural Skills Specialist | Agricultural School / Prefecture | Indefinite | Basic cultivation techniques, machinery operation |
+| Tractor Driver Qualification | Prefecture Agricultural Hall | 5 years (renewal required) | Safe tractor operation techniques |
+| Plant House Management Specialist | Relevant Society/Association | Indefinite | Facility greenhouse management techniques |
+| Hazardous Materials Handler | Fire Department | 5 years (renewal required) | Handling of pesticides, fuel, etc. |
+| Pesticide Handling Responsible Person | Ministry of Agriculture, Forestry and Fisheries | Indefinite | Proper use guidance of pesticides |
+
+### Residency Status Related Documents
+
+**In Case of Permanent Resident (Eijūsha)**:
+- Resident card
+- Resident record
+- Certificate of seal registration
+
+**In Case of Specified Skilled Foreign Worker**:
+- Resident card
+- Employment contract with Specified Skilled Institution
+- Skill record
+
+**Special Notes on Agricultural Land Acquisition**:
+- Agricultural Law requires "utilize all agricultural land efficiently"
+- Acquisition for investment purposes not permitted
+- Proof of actual farming intention and capability required
+- Training experience (agricultural school, advanced farmers, etc.) is a major appeal point
+
+### Common Mistakes at Application & Countermeasures
+
+| Common Mistake | Countermeasure |
+|----------------|--------------|
+| Unrealistic numbers (income/expense plan) | Collect information from local JA or guidance center, on-site inspection |
+| Poorly written managing farming plan | Get revisions from senior farmers or advisors |
+| Missing documents / expired documents | Create checklist, only documents within 3 months of application are valid |
+| Unable to attend on-site inspection | Use agent (administrative lawyer, etc.), explain via video |
+| Residency status related documents mistakes | Confirm with Immigration Bureau, check for expired validity |
+
+### Utilizing Experts & Consultation Desks
+
+| Organization/Professional | Role | Cost |
+|------------------------|------|------|
+| Administrative lawyer (Gyoshi-shoshi) | Application document creation, procedure representation | 50,000-150,000 JPY per case |
+| Agricultural consultant | Farming plan formulation, cultivation technique advice | 5,000 JPY/hour - 10,000 JPY/day |
+| JA (Agricultural Cooperatives) Consultation Counter | Initial consultation, information provision | Free~ |
+| Regional Revitalization Cooperation Team | Regional adaptation support, information provision | Varies by condition |
+| Administrative Lawyer Association Free Consultation | Initial consultation (1-3 times per month) | Free |
+
+---
