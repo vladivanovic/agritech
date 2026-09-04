@@ -540,3 +540,60 @@ This guide compiles the legal, financial, and practical requirements for a forei
 2. **Goal is damage minimization**: Target damage minimization rather than complete exclusion
 3. **Regional cooperation**: Information sharing with neighboring farmers, collective measures are effective
 4. **Consult with administration**: Report damage to Munakata City Agricultural Committee, collect subsidy information
+
+#### Note: Grafting vs. Cuttings
+
+In this guide, "grafting" refers to the following:
+
+**Grafting**:
+- A technique for joining a scion branch to an existing rootstock
+- Combining the root system of one tree with the fruit-bearing top of another
+- Success rate: 60-85% (depending on graft type)
+- Advantage: Fruits sooner, maintains quality of parent variety
+- Use: Propagating named varieties, strengthening weak rootstocks
+
+**Stem Cuttings**:
+- A method of cutting a branch and rooting it in soil
+- Does not require rootstock (becomes own-root tree)
+- Success rate: Typically 30-50% (depends on variety)
+- Advantage: Simpler setup, produces genetically identical own-root trees
+- Use: Strawberries, some fruit trees, ornamental trees
+
+---
+
+### Propagation by Cuttings (Reference)
+
+#### Peach Cuttings
+
+**Best Season**: June-July (Summer)
+
+**Procedure**:
+1. Cut current-year healthy branches to 15-20cm length
+2. Remove 2/3 of lower leaves
+3. Apply rooting hormone (auxin)
+4. Insert into pot with red soil or perlite
+5. Manage at high temperature/humidity (25-30°C), mist spray for moisture
+6. Roots appear in 2-4 weeks (success rate 30-50%)
+
+#### Pear Cuttings
+
+**Best Season**: December-February (Dormant Season)
+
+**Procedure**:
+1. Cut current-year branches to 20-25cm length
+2. Leave 2-3 buds, remove lower leaves
+3. Apply rooting hormone
+4. Manage at low temperature (10-15°C)
+5. Roots appear in 3-6 weeks (success rate 40-60%)
+
+---
+
+Both methods are suitable for Munakata's climate, but differ as follows:
+
+| Comparison Item | Grafting | Cuttings |
+|-----------------|----------|----------|
+| Time to Fruit | 1-2 years | 2-3 years |
+| Success Rate | 60-85% | 30-60% |
+| Genetic Uniformity | Influenced by rootstock | Pure own-root tree |
+| Required Equipment | Medium (knife, tape, etc.) | Low (pot, soil, hormone) |
+| Cost per Seedling | ¥1,500-3,000 | ¥500-1,500 |
