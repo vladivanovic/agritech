@@ -161,6 +161,96 @@
 
 ---
 
+
+
+### 3.5 Strawberries (Fragaria × ananassa)
+
+#### 3.5.1 Climate Suitability
+- **Rating**: ★★★★☆ (High - strawberry greenhouse staple)
+- **Optimal temperature**: 16-24°C day, 8-13°C night
+- **Hardiness Zone**: Zone 8b-9b (Munakata Zone 9b-10a - excellent)
+- **Growing season**: November-June (forcing culture in Japan)
+- **Day length**: 12-16 hours; short days induce flowering
+
+#### 3.5.2 Varieties Suitable for Munakata Greenhouses
+| Type | Variety | Characteristics | Harvest Period | Notes |
+|------|---------|----------------|----------------|-------|
+| **Premium Japanese** | **Amaou** | Large, high sugar (16-19 Brix), red flesh | Dec-May | "King of strawberries"; premium price |
+| | **Sachinoka** | Well-balanced sweetness/aroma/acidity, medium | Nov-Apr | Popular for picking farms |
+| | **White Strawberry** | White flesh, pineapple flavor, low acidity | Dec-May | Novelty variety, premium |
+| | **Tochiotome** | Sweet, firm, good storage | Nov-May | Popular variety |
+
+#### 3.5.3 Greenhouse Design for Strawberries
+| Specification | Requirement | Purpose |
+|---------------|-------------|---------|
+| **Height** | 2.0-2.5m | Vine/plant training space |
+| **Width** | 6-8m | 2-3 rows, aisles |
+| **Length** | 20-30m | Flexible, depends on scale |
+| **Ventilation** | 30-40 air exchanges/hour | Humidity control critical |
+| **Temperature control** | 8-24°C range | Seasonal adjustment |
+| **Humidity** | 60-70% optimal | Below 80% prevents mildew |
+
+#### 3.5.2 Structure Design
+```
+STRAWBERRY GREENHOUSE LAYOUT
+
+[Roof Vents with auto-openers] 
+     \          |          /
+      \         |         /
+       \        |        /
+   [Frame] -- [Floor] -- [Frame]
+    /           |              /            |            [Side Vents]   [Walkway]   [Side Vents]
+  (manual)     (1.0m)    (manual)
+    
+Planting Configuration:
+- Elevated beds: 30-40cm high, 50cm wide aisles
+- Plant density: 25-30 plants per m² in gutters/towers
+- Gutter system: 1-2 plants per 30cm gutter section
+- Aisle: 1.0m between rows for access
+
+Elevated Bed Benefits:
+- Prevents fruit touch ground (reduces grey mold)
+- Ergonomic harvesting height (no bending)
+- Improved drainage and air circulation
+- Concreted floor recommended for easy cleaning
+
+#### 3.5.3 Irrigation & Fertilization
+- **Drip irrigation**: 1 emitter per plant, 1-2 L/hour
+- **Fertigation schedule**:
+  - Transplanting to flowering: Balanced N-P-K
+  - Flowering to fruit set: Potassium-heavy
+  - Fruit enlargement: Consistent feeding
+- **EC management**: 1.2-1.8 dS/m
+- **pH management**: 5.8-6.2 optimal
+- **Calcium supplementation**: Prevents fruit deformation
+
+#### 3.5.4 Pest & Disease Management
+- **Major diseases**: Powdery mildew, gray mold (botrytis), root rot, anthracnose
+- **Major pests**: Spider mites, aphids, whitefly, slugs/snails
+- **Prevention**:
+  - 60-70% humidity management (CRITICAL)
+  - Ventilation (horizontal airflow essential)
+  - Remove infected leaves/fruit immediately
+  - Yellow/blue sticky traps
+  - Beneficial insects (predatory mites, parasitic wasps)
+  - Crop rotation (1+ year break between strawberry crops)
+  - Disease-free runners/plants
+- **Organic options**: Neem oil, potassium bicarbonate, Bacillus subtilis
+
+#### 3.5.5 Harvest & Post-Harvest
+- **Harvest indicators**:
+  - Full color development (red for Amaou, Sachinoka)
+  - Easy separation from receptacle
+  - Sugar content: 16-19°Brix optimal
+- **Frequency**: Every 2-3 days during peak season
+- **Yield**: 2-3kg per m² per season (elevated gutters)
+- **Storage**: 
+  - 1-2 weeks at 4-8°C, 90-95% humidity
+  - Do NOT refrigerate below 4°C (chilling injury)
+  - Highly perishable; sell within 2-3 days of harvest
+- **Note**: Popular for "pick-your-own" (PYY) farms; Munakata has several farms offering this experience
+
+---
 ## 4. Greenhouse Cost Breakdown (2026 Prices)
 
 ### 4.1 Polytunnel (Basic)
