@@ -259,3 +259,44 @@
 
 ---
 *Note: All license costs and requirements verified for 2026 Fukuoka Prefecture. Regulations subject to change; always verify with relevant government offices. Japanese language proficiency highly recommended for all license procedures.*
+
+### 1.3 Bore Pump (Groundwater Pump)
+| Specification | Details |
+|--------------|---------|
+| **Type** | Submersible bore pump or centrifugal bore pump |
+| **Typical depth** | 30-100m (depends on aquifer table; Munakata average 40-60m) |
+| **Flow rate** | 10-50 L/min for agricultural use; 50-100 L/min for larger farms |
+| **Power** | 3-7HP electric motor; diesel option for remote locations without electricity |
+| **Cost (¥)** | ¥200,000 - ¥800,000 (unit only; installation extra ¥100,000-¥300,000) |
+| **Cost (USD)** | $1,400 - $5,600 |
+| **Installation** | Requires licensed well driller; electrician for power connection |
+
+### Bore Pump Application Process
+
+| Step | Activity | Notes |
+|------|----------|-------|
+| 1. Site Survey | Hydrogeological survey or test well drilling | Determine aquifer depth, quality, yield |
+| 2. Permit Application | Munakata City Water Department | May require permission for well drilling |
+| 3. Contractor Selection | Licensed well driller | Get multiple quotes |
+| 4. Installation | Drill well, install pump, electrical connection | 1-2 weeks typical |
+| 5. Testing | Flow test, water quality test | Ensure adequate supply and potability |
+| 6. Registration | Register with local water authority | Required for agricultural use |
+
+### Bore Pump Subsidy (2026)
+| Subsidy | Amount | Coverage | Application |
+|---------|--------|----------|-------------|
+| Irrigation Infrastructure Subsidy | ¥3,000,000 | Up to 1/2 bore pump + installation cost | MAFF water resources section; with business plan |
+
+### Bore Pump Selection Guide
+| Crop Type | Recommended Flow | Pressure | Power |
+|-----------|-----------------|----------|-------|
+| Small orchard (0.5 ha) | 10-15 L/min | 20-30 m head | 3-5HP electric |
+| Medium farm (1-2 ha) | 20-30 L/min | 30-50 m head | 5-7HP electric/diesel |
+| Large farm (2+ ha) | 40-60 L/min | 50-80 m head | 7-10HP diesel (remote) |
+
+### Maintenance
+- Annual inspection of pump and motor
+- Clean intake screen quarterly
+- Check pressure gauge and flow meter
+- Winterize if freezing risk (drain or antifreeze)
+- Professional service every 2-3 years (¥30,000-¥50,000)

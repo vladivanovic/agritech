@@ -166,3 +166,62 @@
 
 ---
 *Note: Laws and regulations are subject to change. Always verify current requirements with relevant government offices and qualified professionals.*
+
+## 5. River Usage and Water Rights
+
+### 5.1 Agricultural Water Use from Rivers
+In Munakata and throughout Fukuoka Prefecture, river water is a critical resource for agricultural irrigation, particularly for rice cultivation and field crops. Understanding usage rights and restrictions is essential for farmers.
+
+### 5.2 River Systems in Munakata
+- **Munakata River**: Main river flowing through the city; water usage regulated by Munakata City Water Department
+- **Other local streams**: Seasonal flow; usage restrictions vary by season and water level
+
+### 5.3 Water Usage Rights and Restrictions
+
+| User Type | Allocation | Restrictions | Notes |
+|-----------|-----------|--------------|-------|
+| **Agricultural (rice fields)** | Seasonal allocation (Apr-Oct) | Must report usage monthly; cannot exceed allocated volume | Traditional right for rice-growing regions; water released from dams in controlled amounts |
+| **Agricultural (field crops, orchards)** | Application-based | Must submit irrigation plan; seasonal limits; may require water usage fee | Typically smaller allocations than rice; must demonstrate efficient use |
+| **Industrial/commercial** | Paid commercial rate | Strict regulation; requires permission from prefectural government | Not typically available to individual farmers without business registration |
+| **Household/gardening** | Limited domestic use | No commercial use; restrictions on large-scale irrigation | For garden irrigation only; not for field crops |
+
+### 5.4 Flood Rice Field Connection
+- **Traditional system**: Many Munakata rice fields rely on flood irrigation from river connections during rainy season (Jun-Aug)
+- **Flood season**: Typically Jun-Aug (tsuyu/Baiu season + typhoon season)
+- **Management**: 
+  - Farmers participate in "water rotation" (水取り - mizutori) system
+  - Each farmer gets allocated time slots for river water access
+  - Water volume depends on river level, dam releases
+  - Must return water after use; cannot divert excessively
+- **Modern alternatives**: Many farmers now use bore pumps or municipal water systems instead of flood irrigation
+
+### 5.5 Water Usage Fee Structure
+| User Type | Fee | Calculation |
+|-----------|-----|------------|
+| **Rice field farmers** | Annual fee | Fixed per 10a (rice paddy); ~¥10,000-¥30,000/year |
+| **Field crop farmers** | Usage-based | ¥500-¥1,000 per 1,000m³ used; meter required |
+| **Commercial users** | Rate-based | ¥1,000-¥2,000 per 1,000m³; commercial rate higher |
+| **Household/garden** | Flat rate | ¥1,000-¥2,000/year; limited to <10m³/month |
+
+### 5.6 Application Process for River Water Use
+
+| Step | Activity | Timeline |
+|------|----------|----------|
+| 1. Inquiry | Contact Munakata City Water Department | Before planting season |
+| 2. Application | Submit irrigation plan (crop type, area, expected volume) | 1 month before growing season |
+| 3. Inspection | Water department site visit | 2-3 weeks after application |
+| 4. Allocation | Receive water usage permit and meter | 2-3 weeks after inspection |
+| 5. Meter Installation | Water meter installed on irrigation line | 1-2 weeks after permit |
+| 6. Reporting | Submit monthly usage reports | Throughout growing season |
+
+### 5.6 Key Contacts
+- **Munakata City Water Department**: 094-031-1119
+- **Fukuoka Prefecture Water Resources Section**: 092-883-2227
+- **Agricultural Committee**: 092-482-5315 (also handles water usage questions)
+
+### 5.7 Important Notes
+- **Water theft**: Unauthorized water use is a serious offense; fines ¥100,000-¥500,000
+- **Seasonal restrictions**: Some rivers have reduced flow in summer/fall; allocations may be cut
+- **Environmental flow**: Minimum water must remain in river for ecosystem; allocations respect this
+- **Drought restrictions**: During dry years, all allocations may be reduced; prioritize rice over field crops
+- **Transfer rights**: Water usage rights are typically not transferable/sellable; tied to the farming operation
